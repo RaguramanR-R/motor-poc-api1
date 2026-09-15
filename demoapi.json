@@ -1,0 +1,13 @@
+{
+    "displayName": "demoapi",
+    "appName": "demoapi",
+    "description": "demo",
+    "lastModified": "2026-09-11T16:53:21.846Z",
+    "imgSourcePath": "",
+    "version": "1.0.0",
+    "appType": "apiOnly",
+    "templateName": "blank",
+    "createDate": "2026-09-11T16:53:21.053Z",
+    "analyticsId": "e0c7c233-2f4d-0b2a-11fa-7c494016602b",
+    "createdStudioVersion": "9.3.0"
+}
